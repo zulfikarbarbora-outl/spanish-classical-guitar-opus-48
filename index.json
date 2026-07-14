@@ -1,0 +1,648 @@
+{
+  "library": "spanish-classical-guitar",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/spanish-classical-guitar",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48",
+  "branch": "main",
+  "fileCount": 49,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/",
+  "files": [
+    {
+      "file": "A1.opus",
+      "name": "A1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/A1.opus",
+      "size": 57132,
+      "note": "A1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A2.opus",
+      "name": "A2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/A2.opus",
+      "size": 33438,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A3.opus",
+      "name": "A3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/A3.opus",
+      "size": 17611,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A4.opus",
+      "name": "A4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/A4.opus",
+      "size": 30737,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A5.opus",
+      "name": "A5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/A5.opus",
+      "size": 12762,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As1.opus",
+      "name": "As1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/As1.opus",
+      "size": 72026,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As3.opus",
+      "name": "As3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/As3.opus",
+      "size": 18825,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As4.opus",
+      "name": "As4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/As4.opus",
+      "size": 17673,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As5.opus",
+      "name": "As5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/As5.opus",
+      "size": 10890,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B1.opus",
+      "name": "B1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/B1.opus",
+      "size": 64243,
+      "note": "B1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B2.opus",
+      "name": "B2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/B2.opus",
+      "size": 24759,
+      "note": "B2",
+      "midiNote": 47,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B3.opus",
+      "name": "B3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/B3.opus",
+      "size": 15389,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B4.opus",
+      "name": "B4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/B4.opus",
+      "size": 16377,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B5.opus",
+      "name": "B5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/B5.opus",
+      "size": 7559,
+      "note": "B5",
+      "midiNote": 83,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C2.opus",
+      "name": "C2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/C2.opus",
+      "size": 73128,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C3.opus",
+      "name": "C3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/C3.opus",
+      "size": 27065,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4.opus",
+      "name": "C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/C4.opus",
+      "size": 17678,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5.opus",
+      "name": "C5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/C5.opus",
+      "size": 11871,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C6.opus",
+      "name": "C6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/C6.opus",
+      "size": 6593,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cs2.opus",
+      "name": "Cs2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/Cs2.opus",
+      "size": 64883,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cs4.opus",
+      "name": "Cs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/Cs4.opus",
+      "size": 19938,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cs5.opus",
+      "name": "Cs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/Cs5.opus",
+      "size": 13082,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D2.opus",
+      "name": "D2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/D2.opus",
+      "size": 46677,
+      "note": "D2",
+      "midiNote": 38,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D3.opus",
+      "name": "D3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/D3.opus",
+      "size": 32821,
+      "note": "D3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D4.opus",
+      "name": "D4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/D4.opus",
+      "size": 23476,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D5.opus",
+      "name": "D5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/D5.opus",
+      "size": 10263,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds2.opus",
+      "name": "Ds2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/Ds2.opus",
+      "size": 58002,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds4.opus",
+      "name": "Ds4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/Ds4.opus",
+      "size": 21341,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds5.opus",
+      "name": "Ds5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/Ds5.opus",
+      "size": 11796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E2.opus",
+      "name": "E2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/E2.opus",
+      "size": 32321,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E3.opus",
+      "name": "E3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/E3.opus",
+      "size": 30268,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E4.opus",
+      "name": "E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/E4.opus",
+      "size": 27158,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E5.opus",
+      "name": "E5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/E5.opus",
+      "size": 10295,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F2.opus",
+      "name": "F2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/F2.opus",
+      "size": 33447,
+      "note": "F2",
+      "midiNote": 41,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F3.opus",
+      "name": "F3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/F3.opus",
+      "size": 28976,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F4.opus",
+      "name": "F4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/F4.opus",
+      "size": 24576,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F5.opus",
+      "name": "F5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/F5.opus",
+      "size": 13889,
+      "note": "F5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs3.opus",
+      "name": "Fs3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/Fs3.opus",
+      "size": 25998,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs4.opus",
+      "name": "Fs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/Fs4.opus",
+      "size": 23875,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs5.opus",
+      "name": "Fs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/Fs5.opus",
+      "size": 10564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G1.opus",
+      "name": "G1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/G1.opus",
+      "size": 84810,
+      "note": "G1",
+      "midiNote": 31,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G2.opus",
+      "name": "G2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/G2.opus",
+      "size": 33378,
+      "note": "G2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G3.opus",
+      "name": "G3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/G3.opus",
+      "size": 34596,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G4.opus",
+      "name": "G4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/G4.opus",
+      "size": 17314,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G5.opus",
+      "name": "G5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/G5.opus",
+      "size": 11544,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs1.opus",
+      "name": "Gs1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/Gs1.opus",
+      "size": 76285,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs3.opus",
+      "name": "Gs3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/Gs3.opus",
+      "size": 23823,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs5.opus",
+      "name": "Gs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/Gs5.opus",
+      "size": 9192,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "SpanishClassicalGuitar-20190618.opus",
+      "name": "SpanishClassicalGuitar-20190618.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/spanish-classical-guitar-opus-48/main/SpanishClassicalGuitar-20190618.opus",
+      "size": 10498,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "31": [
+      "G1.opus"
+    ],
+    "33": [
+      "A1.opus"
+    ],
+    "35": [
+      "B1.opus"
+    ],
+    "36": [
+      "C2.opus"
+    ],
+    "38": [
+      "D2.opus"
+    ],
+    "40": [
+      "E2.opus"
+    ],
+    "41": [
+      "F2.opus"
+    ],
+    "43": [
+      "G2.opus"
+    ],
+    "45": [
+      "A2.opus"
+    ],
+    "47": [
+      "B2.opus"
+    ],
+    "48": [
+      "C3.opus"
+    ],
+    "50": [
+      "D3.opus"
+    ],
+    "52": [
+      "E3.opus"
+    ],
+    "53": [
+      "F3.opus"
+    ],
+    "55": [
+      "G3.opus"
+    ],
+    "57": [
+      "A3.opus"
+    ],
+    "59": [
+      "B3.opus"
+    ],
+    "60": [
+      "C4.opus"
+    ],
+    "62": [
+      "D4.opus"
+    ],
+    "64": [
+      "E4.opus"
+    ],
+    "65": [
+      "F4.opus"
+    ],
+    "67": [
+      "G4.opus"
+    ],
+    "69": [
+      "A4.opus"
+    ],
+    "71": [
+      "B4.opus"
+    ],
+    "72": [
+      "C5.opus"
+    ],
+    "74": [
+      "D5.opus"
+    ],
+    "76": [
+      "E5.opus"
+    ],
+    "77": [
+      "F5.opus"
+    ],
+    "79": [
+      "G5.opus"
+    ],
+    "81": [
+      "A5.opus"
+    ],
+    "83": [
+      "B5.opus"
+    ],
+    "84": [
+      "C6.opus"
+    ]
+  }
+}
